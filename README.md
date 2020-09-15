@@ -1,4 +1,4 @@
-# react-native-barcode-builder
+# react-native-barcode-builder forked by gitvani
 
 React Native component to generate barcodes. Uses [JsBarcode](https://github.com/lindell/JsBarcode) for encoding of data.
 
